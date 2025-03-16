@@ -5,7 +5,6 @@ To initialize a Git project with commonly used configuration files such as:
 - `.dockerignore`
 - `Makefile`
 - `Dockerfile`
-- `Install`
 
 ## Install
 
@@ -22,7 +21,6 @@ go install github.com/bitmyth/repodot@latest
    - `.dockerignore`: Specifies files and directories to be ignored by Docker during image builds.
    - `Makefile`: Provides a set of commands for building, testing, and deploying the project.
    - `Dockerfile`: Defines the steps to build a Docker image for the project.
-   - `Install`: Contains instructions or scripts for setting up the project.
 
 2. **Installation Command**:
    - The `go install` command installs the `repodot` tool, which helps automate the creation of these configuration files.
