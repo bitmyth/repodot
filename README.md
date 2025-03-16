@@ -4,3 +4,6 @@
 - .dockerignore
 - Makefile
 - Dockerfile
+
+## Install
+go install github.com/bitmyth/repodot@latest
